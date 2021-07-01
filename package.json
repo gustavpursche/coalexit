@@ -26,7 +26,7 @@
     "gatsby-source-filesystem": "^2.8.1",
     "gatsby-source-wordpress-experimental": "^5.0.1",
     "gatsby-transformer-sharp": "^2.9.0",
-    "http-proxy-middleware": "^1.0.6",
+    "http-proxy-middleware": "^2.0.0",
     "rc-slider": "^9.7.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
